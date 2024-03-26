@@ -1,0 +1,14 @@
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/bin/Debug/net8.0/calculator
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/bin/Debug/net8.0/calculator.deps.json
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/bin/Debug/net8.0/calculator.dll
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/bin/Debug/net8.0/calculator.pdb
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.dll
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/refint/calculator.dll
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.pdb
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/Users/StevenBui/Documents/Code/calculatorApp/calculator/obj/Debug/net8.0/ref/calculator.dll
